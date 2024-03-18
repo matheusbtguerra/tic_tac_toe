@@ -95,13 +95,16 @@ h1 {
 }
 
 footer {
-    margin-top: 6%;
-    padding: 1.2%;
+    /* margin-top: 6%; */
+    width: 100%;
+    padding: 1%;
     font-family: sans-serif;
     background-color: #000;
     font-family: "Encode Sans Expanded", sans-serif;
     font-weight: 600;
     font-style: normal;
+    position: absolute;
+    top: 100vh;
 }
 
 footer p {
